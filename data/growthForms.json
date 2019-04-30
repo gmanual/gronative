@@ -1,0 +1,13 @@
+[{"id":1, "displayOrder":10, "title":"Herb"},
+{"id":2, "displayOrder":6, "title":"Small Shrub"},
+{"id":3, "displayOrder":5, "title":"Large Shrub"},
+{"id":4, "displayOrder":3, "title":"Small Tree"},
+{"id":5, "displayOrder":2, "title":"Medium Tree"},
+{"id":6, "displayOrder":1, "title":"Large Tree"},
+{"id":7, "displayOrder":8, "title":"Fern"},
+{"id":8, "displayOrder":4, "title":"Palm"},
+{"id":9, "displayOrder":7, "title":"Climber"},
+{"id":10, "displayOrder":9, "title":"Groundcover"},
+{"id":11, "displayOrder":12, "title":"Sedges and Rushes"},
+{"id":12, "displayOrder":11, "title":"Grass"},
+{"id":13, "displayOrder":13, "title":"Epiphytic"}]
